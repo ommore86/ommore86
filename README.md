@@ -26,10 +26,7 @@ I'm currently learning Data Structures and Algorithms to sharpen my problem-solv
 # Contact Me 📧
 You can reach me via email at omgmore2005@gmail.com. I'm always eager to connect with like-minded individuals and discuss tech, coding, or anything else you're passionate about.
 
-# Connect with Me 🌐
-Feel free to connect with me on various platforms:
-
-<div align="left">
+# Connect with Me 🌐<div align="left">
   <a href="https://www.linkedin.com/in/om-more-b802b2281" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" alt="LinkedIn">
   </a>
