@@ -8,7 +8,7 @@ I enjoy working with a diverse range of technologies and languages, including:<b
 <div align="left">
     <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
-    <img src="https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwind&logoColor=06B6D4" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=A8B9CC" alt="C++">
